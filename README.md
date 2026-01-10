@@ -29,8 +29,8 @@ A **production-ready real-time streaming ETL pipeline** that processes unstructu
 
 ## 🏗️ Architecture
 
-![AWS Architecture Diagram](<img width="1274" height="403" alt="image" src="https://github.com/user-attachments/assets/7320e5d9-aea0-4dd5-b3be-da8d2de64e87" />
-)
+<img width="1274" height="401" alt="image" src="https://github.com/user-attachments/assets/91503a14-e792-4c1d-a45f-db274665f8af" />
+
 
 ### Data Flow
 
@@ -161,60 +161,23 @@ ls -la jobs/output/
 aws s3 ls s3://your-bucket/data/spark_unstructured/ --recursive
 ```
 
-## 🧪 AWS Glue & Athena Setup
-
-### 1. Create Glue Database
-```bash
-aws glue create-database --database-input '{"Name":"spark_unstructured_db"}'
-```
-
-### 2. Create Glue Crawler
-- **Name**: `spark-unstructured-crawler`
-- **Data source**: `s3://your-bucket/data/spark_unstructured/`
-- **IAM Role**: With S3 read + Glue permissions
-- **Database**: `spark_unstructured_db`
-- **Schedule**: On demand or hourly
-
-### 3. Grant Lake Formation Permissions
-```bash
-aws lakeformation grant-permissions \
-  --principal DataLakePrincipalIdentifier=arn:aws:iam::ACCOUNT_ID:role/GlueServiceRole \
-  --permissions "ALL" \
-  --resource '{"Database":{"Name":"spark-unstructured-db"}}'
-```
-
-### 4. Query in Athena
-```sql
-SELECT 
-    file_name,
-    position,
-    salary_start,
-    salary_end,
-    start_date,
-    experience_length,
-    education_length
-FROM spark_unstructured_db.spark_unstructured
-WHERE salary_start > 100000
-ORDER BY salary_start DESC
-LIMIT 10;
-```
-
 ## 📸 Screenshots
 
 ### AWS S3 Bucket
-![S3]<img width="1415" height="646" alt="image" src="https://github.com/user-attachments/assets/bb0a038a-9382-4e38-9dc2-d964ca8c14d0" />
+<img width="1415" height="646" alt="image" src="https://github.com/user-attachments/assets/7c61e7ba-ba48-4522-9753-ddfbfd13f02a" />
 
 
 ### Glue Table
-<img width="1139" height="454" alt="image" src="https://github.com/user-attachments/assets/3f3cc023-ec1a-4e5f-b75b-505570981317" 
+<img width="1139" height="454" alt="image" src="https://github.com/user-attachments/assets/70737869-fd2f-4305-9570-b4d9939234cd" />
+
 <img width="1133" height="638" alt="image" src="https://github.com/user-attachments/assets/a2725282-8fd3-45ad-b0e0-55882c8176f6" />
 
 
 ### AWS Athena Query
-![Athena Query](<img width="1428" height="625" alt="image" src="https://github.com/user-attachments/assets/a6d38303-9d2d-459f-9f90-7f22dd552f17" />)
+<img width="1428" height="625" alt="image" src="https://github.com/user-attachments/assets/5e8bc650-f43f-46ca-96b5-45431ea171e3" />
 
 ### Output Table
-![Output](<img width="1010" height="560" alt="image" src="https://github.com/user-attachments/assets/c742d9f8-3de9-45b4-9ef4-78eeb6975227" />
+<img width="1010" height="560" alt="image" src="https://github.com/user-attachments/assets/c742d9f8-3de9-45b4-9ef4-78eeb6975227" />
 <img width="1008" height="563" alt="image" src="https://github.com/user-attachments/assets/2c7a0547-7eab-464b-b322-7323519e1a82" />
 
 
