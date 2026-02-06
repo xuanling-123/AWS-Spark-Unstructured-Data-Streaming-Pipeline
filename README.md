@@ -36,7 +36,8 @@ A **production-ready real-time streaming ETL pipeline** that processes unstructu
 
 ## 🏗️ Architecture
 
-<img width="1274" height="401" alt="image" src="https://github.com/user-attachments/assets/91503a14-e792-4c1d-a45f-db274665f8af" />
+<img width="1341" height="444" alt="image" src="https://github.com/user-attachments/assets/df25c713-14b4-4e27-9014-954eda66f93b" />
+
 
 
 ### Data Flow
