@@ -1,0 +1,90 @@
+DEVOPS ENGINEER - LEAD POSITION
+Job ID: 7291
+Posted: 03/10/2024
+Location: Austin, TX
+Department: Infrastructure
+Salary Range: $135,000 - $175,000
+
+POSITION SUMMARY:
+We are seeking an experienced Lead DevOps Engineer to architect and manage our cloud infrastructure. The ideal candidate will have deep expertise in automation, CI/CD pipelines, and infrastructure as code. You will lead a team of engineers and drive our cloud migration and DevOps transformation initiatives.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+- Design and implement scalable cloud infrastructure on AWS and Azure
+- Build and maintain CI/CD pipelines using Jenkins, GitLab CI, and GitHub Actions
+- Automate infrastructure provisioning using Terraform and Ansible
+- Implement containerization strategies with Docker and Kubernetes
+- Monitor system performance and reliability using observability tools
+- Lead incident response and post-mortem analysis
+- Establish DevOps best practices and standards across engineering teams
+- Mentor and guide junior DevOps engineers
+- Collaborate with security team on compliance and vulnerability management
+- Optimize cloud costs and resource utilization
+- Participate in on-call rotation for production support
+
+REQUIRED QUALIFICATIONS:
+- Bachelor's degree in Computer Science, Information Technology, or related field
+- 6+ years of experience in DevOps, SRE, or cloud infrastructure roles
+- Strong expertise in AWS services (EC2, S3, Lambda, ECS, RDS, CloudFormation)
+- Proficiency with infrastructure as code tools (Terraform, CloudFormation, Pulumi)
+- Hands-on experience with container orchestration (Kubernetes, ECS, Docker Swarm)
+- Expert knowledge of CI/CD tools (Jenkins, GitLab CI, CircleCI, GitHub Actions)
+- Strong scripting skills in Python, Bash, or PowerShell
+- Experience with configuration management tools (Ansible, Chef, Puppet)
+- Deep understanding of networking, security, and cloud architecture
+- Experience with monitoring and logging solutions (Prometheus, Grafana, ELK)
+- Strong troubleshooting and problem-solving abilities
+
+PREFERRED QUALIFICATIONS:
+- Master's degree in Computer Science or related field
+- AWS Certified Solutions Architect or DevOps Engineer certification
+- Experience with multi-cloud environments (AWS, Azure, GCP)
+- Knowledge of service mesh technologies (Istio, Linkerd)
+- Experience with GitOps practices (ArgoCD, Flux)
+- Familiarity with chaos engineering principles
+- Background in software development
+- Experience in regulated industries (healthcare, finance)
+- Contributions to open-source DevOps projects
+
+TECHNICAL SKILLS:
+Cloud Platforms: AWS (EC2, S3, Lambda, ECS, RDS, CloudWatch), Azure, GCP
+IaC Tools: Terraform, CloudFormation, Pulumi, CDK
+Containers: Docker, Kubernetes, Helm, ECS, Fargate
+CI/CD: Jenkins, GitLab CI, GitHub Actions, CircleCI, ArgoCD
+Configuration Management: Ansible, Chef, Puppet, SaltStack
+Monitoring: Prometheus, Grafana, Datadog, New Relic, Splunk
+Scripting: Python, Bash, PowerShell, Go
+Version Control: Git, GitHub, GitLab, Bitbucket
+Security: Vault, AWS Secrets Manager, IAM, Security Groups
+
+BENEFITS:
+- Highly competitive salary and performance bonuses
+- Comprehensive medical, dental, and vision insurance
+- 401(k) plan with 5% company matching
+- Flexible work schedule with remote work options
+- Professional certification reimbursement (AWS, Kubernetes, etc.)
+- Annual learning and development budget of $5,000
+- Stock option grants
+- 25 days PTO plus company holidays
+- Paid parental leave (12 weeks)
+- Health and wellness stipend
+- Home office setup allowance
+- Company-sponsored team events and hackathons
+
+COMPANY OVERVIEW:
+CloudOps Solutions is a leading cloud consulting and managed services provider. We help enterprises modernize their infrastructure and adopt cloud-native technologies. Our team works with clients across healthcare, finance, retail, and technology sectors to build resilient and scalable systems. Join us to work on diverse projects and shape the future of cloud computing.
+
+EQUAL OPPORTUNITY EMPLOYER:
+CloudOps Solutions is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive workplace for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+APPLICATION INSTRUCTIONS:
+To apply for this position, please submit your resume and a cover letter detailing your DevOps experience and achievements. Include certifications and links to any relevant GitHub repositories or technical blog posts. Email your application with subject line "Lead DevOps Engineer - [Your Name]".
+
+CONTACT INFORMATION:
+Email: jobs@cloudopssolutions.com
+Phone: (512) 555-0789
+Website: www.cloudopssolutions.com/careers
+LinkedIn: linkedin.com/company/cloudops-solutions
+
+We appreciate your interest in CloudOps Solutions!
+
+--- END OF JOB POSTING ---

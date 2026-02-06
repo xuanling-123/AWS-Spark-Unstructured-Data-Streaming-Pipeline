@@ -1,0 +1,86 @@
+DATA SCIENTIST - MID LEVEL
+Job ID: 5823
+Posted: 02/20/2024
+Location: New York, NY
+Department: Data Science
+Salary Range: $120,000 - $160,000
+
+POSITION SUMMARY:
+We are looking for a talented Data Scientist to join our analytics team. The successful candidate will leverage machine learning, statistical modeling, and data visualization to drive business insights and support strategic decision-making across the organization.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+- Develop and deploy machine learning models for predictive analytics and recommendation systems
+- Conduct exploratory data analysis to identify trends and patterns in large datasets
+- Build data pipelines and ETL processes using Python and SQL
+- Create interactive dashboards and visualizations using Tableau and Power BI
+- Collaborate with business stakeholders to define analytical requirements
+- Perform A/B testing and statistical analysis to evaluate product features
+- Document methodologies and findings in technical reports
+- Present insights and recommendations to senior leadership
+- Mentor junior data analysts and interns
+- Stay updated on latest ML/AI techniques and tools
+
+REQUIRED QUALIFICATIONS:
+- Master's degree in Statistics, Mathematics, Computer Science, or related field
+- 3+ years of experience in data science or analytics role
+- Strong proficiency in Python and SQL
+- Experience with machine learning libraries (scikit-learn, TensorFlow, PyTorch)
+- Solid understanding of statistical methods and experimental design
+- Experience with data visualization tools (Tableau, Power BI, or matplotlib)
+- Knowledge of big data technologies (Spark, Hadoop, or Hive)
+- Experience working with relational and NoSQL databases
+- Strong analytical and problem-solving skills
+- Excellent written and verbal communication skills
+
+PREFERRED QUALIFICATIONS:
+- PhD in quantitative field
+- Experience with deep learning and neural networks
+- Knowledge of natural language processing (NLP) techniques
+- Experience with cloud platforms (AWS SageMaker, Azure ML)
+- Familiarity with MLOps practices and model deployment
+- Experience in financial services or healthcare industry
+- Published research papers or contributions to data science community
+- Certification in cloud technologies (AWS, GCP, or Azure)
+
+TECHNICAL SKILLS:
+Programming Languages: Python, R, SQL, Scala
+ML Frameworks: TensorFlow, PyTorch, scikit-learn, XGBoost
+Data Processing: Apache Spark, Pandas, NumPy, Dask
+Visualization: Tableau, Power BI, Plotly, matplotlib, seaborn
+Databases: PostgreSQL, MySQL, MongoDB, Snowflake
+Cloud Platforms: AWS (S3, EC2, SageMaker, Redshift), Azure, GCP
+Tools: Jupyter Notebooks, Git, Docker, Airflow
+Statistical Software: R Studio, SPSS, SAS
+
+BENEFITS:
+- Competitive salary with annual bonuses
+- Comprehensive health, dental, and vision coverage
+- 401(k) with company match up to 6%
+- Flexible hybrid work model (2 days in office, 3 days remote)
+- Professional development and conference attendance budget
+- Tuition reimbursement for advanced degrees
+- Stock options and equity participation
+- 20 days PTO plus 10 paid holidays
+- Parental leave (16 weeks paid)
+- Wellness programs and mental health support
+- Employee assistance program
+- Daily catered meals and premium coffee
+
+COMPANY OVERVIEW:
+DataVision Analytics is a fast-growing data analytics firm serving Fortune 1000 companies. We specialize in predictive modeling, customer segmentation, and business intelligence solutions. Our team of data scientists and engineers work on challenging problems across retail, finance, healthcare, and technology sectors. Join us to work with cutting-edge AI/ML technologies and make data-driven impact.
+
+EQUAL OPPORTUNITY EMPLOYER:
+DataVision Analytics values diversity and is committed to creating an inclusive environment for all employees. We provide equal employment opportunities regardless of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+APPLICATION INSTRUCTIONS:
+Please submit your resume, cover letter, and portfolio showcasing 2-3 data science projects. Include links to GitHub repositories or Kaggle profiles if available. Send applications with subject line "Data Scientist Application - [Your Name]" to our careers portal.
+
+CONTACT INFORMATION:
+Email: recruiting@datavisionanalytics.com
+Phone: (212) 555-0456
+Website: www.datavisionanalytics.com/join-us
+LinkedIn: linkedin.com/company/datavision-analytics
+
+Thank you for your interest in joining our team!
+
+--- END OF JOB POSTING ---

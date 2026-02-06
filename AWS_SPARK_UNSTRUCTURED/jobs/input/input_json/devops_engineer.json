@@ -1,0 +1,18 @@
+  {
+    "file_name": "DEVOPS ENGINEER",
+    "position": "DevOps Engineer - Lead Position",
+    "classcode": "7291",
+    "salary_start": 135000,
+    "salary_end": 175000,
+    "start_date": "2024-03-10",
+    "end_date": "2025-03-09",
+    "req": "1. Bachelor's degree in Computer Science, Information Technology, or related field; 2. 6+ years of experience in DevOps, SRE, or cloud infrastructure roles; 3. Strong expertise in AWS services (EC2, S3, Lambda, ECS, RDS, CloudFormation); 4. Proficiency with infrastructure as code tools (Terraform, CloudFormation, Pulumi); 5. Hands-on experience with container orchestration (Kubernetes, ECS, Docker Swarm); 6. Expert knowledge of CI/CD tools (Jenkins, GitLab CI, CircleCI, GitHub Actions); 7. Strong scripting skills in Python, Bash, or PowerShell; 8. Experience with configuration management tools (Ansible, Chef, Puppet); 9. Deep understanding of networking, security, and cloud architecture; 10. Experience with monitoring and logging solutions (Prometheus, Grafana, ELK); 11. Strong troubleshooting and problem-solving abilities",
+    "notes": "1. Highly competitive salary and performance bonuses; 2. Comprehensive medical, dental, and vision insurance; 3. 401(k) plan with 5% company matching; 4. Flexible work schedule with remote work options; 5. Professional certification reimbursement (AWS, Kubernetes, etc.); 6. Annual learning and development budget of $5,000; 7. Stock option grants; 8. 25 days PTO plus company holidays; 9. Paid parental leave (12 weeks); 10. Health and wellness stipend; 11. Home office setup allowance; 12. Company-sponsored team events and hackathons",
+    "duties": "A Lead DevOps Engineer designs and implements scalable cloud infrastructure on AWS and Azure, builds and maintains CI/CD pipelines using Jenkins, GitLab CI, and GitHub Actions, automates infrastructure provisioning using Terraform and Ansible, implements containerization strategies with Docker and Kubernetes, monitors system performance and reliability using observability tools, leads incident response and post-mortem analysis, establishes DevOps best practices and standards across engineering teams, mentors and guides junior DevOps engineers, collaborates with security team on compliance and vulnerability management, optimizes cloud costs and resource utilization, and participates in on-call rotation for production support.",
+    "selection": "Examination Weight: Technical Skills Assessment . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50%; System Design Challenge . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30%; Leadership Interview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20%; Candidates will be assessed through hands-on infrastructure challenges, architectural design exercises, and behavioral interviews focused on leadership and mentoring capabilities.",
+    "experience_length": "Six years of experience in DevOps, SRE, or cloud infrastructure; or equivalent combination of experience and AWS certifications",
+    "job_type": "Full-time",
+    "education_length": "Bachelor's degree in Computer Science, Information Technology, or related field",
+    "school_type": "Accredited College or University",
+    "application_location": "jobs@cloudopssolutions.com"
+  }

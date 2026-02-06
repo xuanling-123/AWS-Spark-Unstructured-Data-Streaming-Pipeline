@@ -1,0 +1,18 @@
+{
+"file_name": "DATA SCIENTIST",
+"position": "Data Scientist - Mid Level",
+"classcode": "5823",
+"salary_start": 120000,
+"salary_end": 160000,
+"start_date": "2024-02-20",
+"end_date": "2024-12-31",
+"req": "1. Master's degree in Statistics, Mathematics, Computer Science, or related field; 2. 3+ years of experience in data science or analytics role; 3. Strong proficiency in Python and SQL; 4. Experience with machine learning libraries (scikit-learn, TensorFlow, PyTorch); 5. Solid understanding of statistical methods and experimental design; 6. Experience with data visualization tools (Tableau, Power BI, or matplotlib); 7. Knowledge of big data technologies (Spark, Hadoop, or Hive); 8. Experience working with relational and NoSQL databases; 9. Strong analytical and problem-solving skills; 10. Excellent written and verbal communication skills",
+"notes": "1. Competitive salary with annual bonuses; 2. Comprehensive health, dental, and vision coverage; 3. 401(k) with company match up to 6%; 4. Flexible hybrid work model (2 days in office, 3 days remote); 5. Professional development and conference attendance budget; 6. Tuition reimbursement for advanced degrees; 7. Stock options and equity participation; 8. 20 days PTO plus 10 paid holidays; 9. Parental leave (16 weeks paid); 10. Wellness programs and mental health support; 11. Employee assistance program; 12. Daily catered meals and premium coffee",
+"duties": "A Data Scientist develops and deploys machine learning models for predictive analytics and recommendation systems, conducts exploratory data analysis to identify trends and patterns in large datasets, builds data pipelines and ETL processes using Python and SQL, creates interactive dashboards and visualizations using Tableau and Power BI, collaborates with business stakeholders to define analytical requirements, performs A/B testing and statistical analysis to evaluate product features, documents methodologies and findings in technical reports, presents insights and recommendations to senior leadership, mentors junior data analysts and interns, and stays updated on latest ML/AI techniques and tools.",
+"selection": "Examination Weight: Technical Assessment and Case Study . . . . . . . . . . . . . . . . . . . . . . . . . . . 60%; Interview . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40%; Candidates will be evaluated on their data science expertise, coding proficiency, statistical knowledge, and communication skills through a take-home case study and panel interview.",
+"experience_length": "Three years of experience in data science or analytics; or equivalent combination of education and experience",
+"job_type": "Full-time",
+"education_length": "Master's degree in Statistics, Mathematics, Computer Science, or related field",
+"school_type": "Accredited University",
+"application_location": "recruiting@datavisionanalytics.com"
+}
