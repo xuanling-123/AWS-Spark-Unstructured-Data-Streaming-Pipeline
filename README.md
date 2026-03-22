@@ -56,7 +56,7 @@ A **production-ready real-time streaming ETL pipeline** that processes unstructu
 ┌──────────────────────────────────────────────────────────────────┐
 │                    Input Sources (5 Types)                       │
 ├─────────────┬─────────────┬─────────────┬─────────────┬──────────┤
-│  📄 Text    │   📋 JSON    │  📊 CSV     │  📑 PDF     │ 🖼️ Image  │
+│  📄 Text    │   📋 JSON   │  📊 CSV     │  📑 PDF     │ 🖼️ Image │
 │  (.txt)     │  (.json)    │  (.csv)     │  (.pdf)     │ (.jpg)   │
 └─────────────┴─────────────┴─────────────┴─────────────┴──────────┘
        │              │              │              │         │
